@@ -1,0 +1,17 @@
+C:\Users\Harun\source\repos\HRNote Plus\bin\Debug\HRNote Plus.exe.config
+C:\Users\Harun\source\repos\HRNote Plus\bin\Debug\HRNote Plus.exe
+C:\Users\Harun\source\repos\HRNote Plus\bin\Debug\HRNote Plus.pdb
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.csproj.AssemblyReference.cache
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote_Plus.Properties.Resources.resources
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.csproj.GenerateResource.cache
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.exe
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.pdb
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote_Plus.HRNote.resources
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote_Plus.Form1.resources
+C:\Users\Harun\source\repos\HRNote Plus\bin\Debug\HRNote Plus.exe.manifest
+C:\Users\Harun\source\repos\HRNote Plus\bin\Debug\HRNote Plus.application
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.TrustInfo.xml
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.exe.manifest
+C:\Users\Harun\source\repos\HRNote Plus\obj\Debug\HRNote Plus.application
